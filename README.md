@@ -16,6 +16,30 @@ Enrichment-of-Turkish-Question-Answering-Systems-using-Knowledge-Graphs
 | Movie to Rating       | 2510  | Kevin Hakkında Konuşmalıyız filminin aldığı yıldız değeri kaçtır?    |
 
 
+
+| Question Type                                             | Count | Example                                                                                                |
+|-----------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------|
+| Movie to Release Year to Movie                            | 10947 | Hangi senelerde Katharine O'Brien'in yönettiği filmler yayınlanmıştır?                                 |
+| Movie to Language to Movie                                | 4377  | 13. Savaşçı filmi içerisinde konuşulan lisanlardan biri aynı zamanda hangi filmlerde kullanılmaktadır? |
+| Movie to Genre to Movie                                   | 4382  | Hangi filmlerin temaları The Company Men filminin temaları ile kesişmektedir?                          |
+| Movie to Director to Movie                                | 7324  | Constantine filminin yönetmeninin yönettiği diğer filmler nelerdir?                                    |
+| Movie to Actor to Movie                                   | 10012 | Fury filminde yer alan oyuncular aynı zamanda hangi filmde rol almıştır?                               |
+| [18:31, 05/02/2023] okanvk: Movie to Actor to Nationality | 10688 | Parabellum filmindeki oyuncular hangi uyruktan gelmektedirler?                                         |
+| Movie to Actor to Profession                              | 10957 | Teksas Katliamı: Başlangıç filmindeki aktörler hangi meslek ile uğraşmaktadır?                         |
+| Movie to Director to Profession                           | 10947 | Ocean’s 12 filminin yönetmenlerinin meslekleri nelerdir?                                               |
+| Movie to Director to Nationality                          | 9470  | Yeşil Sokak Holiganları filminin yönetmenleri hangi milliyettendir?                                    |
+| Actor to Movie to Director                                | 19632 | Hangi yönetmenler Sari Lennick'in oynadığı filmleri yönetmiştir?                                       |
+| Actor to Movie to Genre                                   | 19788 | Mel Gibson'in yönettiği filmler hangi temalardadır?                                                    |
+| Actor to Movie to Release Year                            | 19758 | Richard Linklater'in bulunduğu filmler ne zaman vizyona girmiştir?                                     |
+| Actor to Movie to Language                                | 19737 | Daniel Brühl'in oynadığı filmlerde kullanılan diller nelerdir?                                         |
+| Actor to Movie to Actor                                   | 19792 | Hangi aktörler ile Nick Cave aynı filmde yer almıştır?                                                 |
+| Director to Movie to Actor                                | 6095  | Bruce Lee hangi oyuncuların oynadığı filmleri yönetmiştir?                                             |
+| Director to Movie to Director                             | 977   | Hakan Gürtop'in yönettiği filmlerde başka hangi yönetmenler bulunmaktadır?                             |
+| Director to Movie to Release Year                         | 6089  | Keishi Ohtomo'in bulunduğu filmler ne zaman yayınlanmıştır?                                            |
+| Director to Movie to Genre                                | 6094  | Stuart Beattie hangi kategorilere ait filmleri yönetmiştir?                                            |
+| Director to Movie to Language                             | 6082  | Hangi diller Peter Weir'in çektiği filmlerde kullanılmıştır?                                           |
+
+
 | Question Type                                | Count | Example                                                                                                              |
 |----------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------------|
 | Actor to Movie to Actor to Profession        | 19788 | Hangi iş üzerine Amanda Peet oyuncusu yer aldığı filmlerde bulunan aktörler uğraşmaktadır?                           |
