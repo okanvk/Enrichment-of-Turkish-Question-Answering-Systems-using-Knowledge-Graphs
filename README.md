@@ -1,6 +1,11 @@
 # Enrichment-of-Turkish-Question-Answering-Systems-using-Knowledge-Graphs
 Enrichment-of-Turkish-Question-Answering-Systems-using-Knowledge-Graphs
 
+TODO:
+
+Attention visualization in 3-different hops with 2 rel type
+Graph Embedding Methods training graphics
+
 
 
 
