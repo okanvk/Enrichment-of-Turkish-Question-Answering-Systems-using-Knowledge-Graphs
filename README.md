@@ -37,7 +37,7 @@ DistMult
 | Movie to Genre to Movie                                   | 4382  | Hangi filmlerin temaları The Company Men filminin temaları ile kesişmektedir?                          |
 | Movie to Director to Movie                                | 7324  | Constantine filminin yönetmeninin yönettiği diğer filmler nelerdir?                                    |
 | Movie to Actor to Movie                                   | 10012 | Fury filminde yer alan oyuncular aynı zamanda hangi filmde rol almıştır?                               |
-| [18:31, 05/02/2023] okanvk: Movie to Actor to Nationality | 10688 | Parabellum filmindeki oyuncular hangi uyruktan gelmektedirler?                                         |
+| [Movie to Actor to Nationality | 10688 | Parabellum filmindeki oyuncular hangi uyruktan gelmektedirler?                                         |
 | Movie to Actor to Profession                              | 10957 | Teksas Katliamı: Başlangıç filmindeki aktörler hangi meslek ile uğraşmaktadır?                         |
 | Movie to Director to Profession                           | 10947 | Ocean’s 12 filminin yönetmenlerinin meslekleri nelerdir?                                               |
 | Movie to Director to Nationality                          | 9470  | Yeşil Sokak Holiganları filminin yönetmenleri hangi milliyettendir?                                    |
