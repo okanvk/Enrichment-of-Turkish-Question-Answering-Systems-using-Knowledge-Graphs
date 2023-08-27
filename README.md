@@ -2,14 +2,6 @@
 Enrichment-of-Turkish-Question-Answering-Systems-using-Knowledge-Graphs
 
 
-# Graph Embedding Methods Loss Graphic
-
-
-ComplEx
-
-SimplE
-
-DistMult
 
 
 # 1-2-3 Hop Questino Type Count Example
