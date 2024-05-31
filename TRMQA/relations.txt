@@ -1,0 +1,16 @@
+yonetmenlerinden_biridir
+uyruklarindan_biridir_reverse
+turlerinden_biridir
+dillerinden_biridir
+mesleklerinden_biridir_reverse
+yayinlanma_yili
+uyruklarindan_biridir
+yonetmenlerinden_biridir_reverse
+dillerinden_biridir_reverse
+oyuncularindan_biridir_reverse
+beyazperde_yildizi
+beyazperde_yildizi_reverse
+oyuncularindan_biridir
+yayinlanma_yili_reverse
+turlerinden_biridir_reverse
+mesleklerinden_biridir
