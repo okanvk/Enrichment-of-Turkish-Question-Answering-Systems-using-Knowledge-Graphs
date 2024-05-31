@@ -1,10 +1,17 @@
 # Enrichment-of-Turkish-Question-Answering-Systems-using-Knowledge-Graphs
-Enrichment-of-Turkish-Question-Answering-Systems-using-Knowledge-Graphs
+
+## Abstract
+
+Recent capabilities of large language models (LLMs) have transformed many tasks in Natural Language Processing (NLP), including question answering. The state-of-the-art systems do an excellent job of responding in a relevant, persuasive way but cannot guarantee factuality. Knowledge graphs, representing facts as triplets, can be valuable for avoiding errors and inconsistencies with real-world facts. This work introduces a knowledge graph-based approach to Turkish question answering. The proposed approach aims to develop a methodology capable of drawing inferences from a knowledge graph to answer complex multihop questions. We construct the Beyazperde Movie Knowledge Graph (BPMovieKG) and the Turkish Movie Question Answering dataset (TRMQA) to answer questions in the movie domain. We evaluate our proposed question answering pipeline against a baseline study. Furthermore, we compare it with a question answering system built upon GPT-3.5 Turbo to answer the 1-hop questions from TRMQA. The experimental results confirm that link prediction on a knowledge graph is quite effective in answering questions that require reasoning paths. Finally, we provide insights into the pros and cons of the provided solution through a qualitative study.
+
+![screenshot](sample_graph.png)
+
+## Citation
+Soon...
 
 
 
-
-# 1-2-3 Hop Questino Type Count Example
+## (Appendix) 1-2-3 Hop Questino Type Count Example
 
 
 
